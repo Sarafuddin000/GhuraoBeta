@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ghurao-Beta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navOpen">Drawer Open</string>
+    <string name="navClose">Drawer Close</string>
+    <string name="api_key">9a50b64a25124b07d5e15e3772731879</string>
+
+</resources>
